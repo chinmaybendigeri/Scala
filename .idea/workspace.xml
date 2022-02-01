@@ -4,24 +4,7 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2fae8b61-b18c-4155-b258-e27bc2fa1ff5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../AdvancedScala/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SparkFramework/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sbt.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/scala_compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/scala_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nga-mobile-qa" beforeDir="false" afterPath="$PROJECT_DIR$/../nga-mobile-qa" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pas-bigdata-batch-notifications-onboarding" beforeDir="false" afterPath="$PROJECT_DIR$/../pas-bigdata-batch-notifications-onboarding" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pas-bigdata-misc_repoMigrated" beforeDir="false" afterPath="$PROJECT_DIR$/../pas-bigdata-misc_repoMigrated" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pas-bigdata-oozie-jobs" beforeDir="false" afterPath="$PROJECT_DIR$/../pas-bigdata-oozie-jobs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pas-bigdata-realtime-notifications" beforeDir="false" afterPath="$PROJECT_DIR$/../pas-bigdata-realtime-notifications" afterDir="false" />
-    </list>
+    <list default="true" id="2fae8b61-b18c-4155-b258-e27bc2fa1ff5" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,7 +21,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
