@@ -5,7 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2fae8b61-b18c-4155-b258-e27bc2fa1ff5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/revision/recursion/Counter.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/revision/recursion/CurriedFunctions.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/revision/recursion/Exception.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/revision/recursion/Inheritance.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/revision/recursion/MapExample.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/revision/recursion/MyFunction1.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/revision/recursion/Recursion.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/ScalaTutorials.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ScalaTutorials.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/part2/OOP/Enums.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/part2/OOP/Enums.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/part2/OOP/Notations.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/part2/OOP/Notations.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/part3/FunctionalProgramming/CollectionsForLoopsBreaks.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/part3/FunctionalProgramming/CollectionsForLoopsBreaks.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +37,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Scala Object" />
+        <option value="Scala Worksheet" />
       </list>
     </option>
   </component>
@@ -32,6 +51,9 @@
       <filtered-out-file-type name="TAG" />
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -51,20 +73,47 @@
     <option name="showLibraryContents" value="true" />
     <option name="showVisibilityIcons" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.17" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="scala_project_settings_configurable.last_selected_tab_index" value="0" />
-    <property name="settings.editor.selected.configurable" value="Scala Compiler" />
-  </component>
-  <component name="RunManager" selected="Application.HofsAndCurries">
-    <configuration name="HofsAndCurries" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="part3.FunctionalProgramming.HofsAndCurries" />
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "project.structure.last.edited": "Problems",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "scala_project_settings_configurable.last_selected_tab_index": "0",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.scala.compiler.ScalaCompileServerForm"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.MapExample">
+    <configuration name="CurriedFunctions" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="revision.recursion.CurriedFunctions" />
+      <module name="ScalaTutorials" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="revision.recursion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exception" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="revision.recursion.Exception" />
+      <module name="ScalaTutorials" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="revision.recursion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FunctionsBasics" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="part3.FunctionalProgramming.FunctionsBasics" />
       <module name="ScalaTutorials" />
       <extension name="coverage">
         <pattern>
@@ -76,12 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaybeCollection" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="part3.FunctionalProgramming.MaybeCollection" />
+    <configuration name="MapExample" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="revision.recursion.MapExample" />
       <module name="ScalaTutorials" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="part3.FunctionalProgramming.*" />
+          <option name="PATTERN" value="revision.recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,38 +138,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyPredicateMyTransformerFunc" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="part3.FunctionalProgramming.MyPredicateMyTransformerFunc" />
+    <configuration name="MyFunction1" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="revision.recursion.MyFunction1" />
       <module name="ScalaTutorials" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="part3.FunctionalProgramming.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Options" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="part3.FunctionalProgramming.Options" />
-      <module name="ScalaTutorials" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="part3.FunctionalProgramming.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PMForValueAndCaseClass" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="part4.PatternMatching.PMForValueAndCaseClass" />
-      <module name="ScalaTutorials" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="part4.PatternMatching.*" />
+          <option name="PATTERN" value="revision.recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HofsAndCurries" />
-        <item itemvalue="Application.PMForValueAndCaseClass" />
-        <item itemvalue="Application.Options" />
-        <item itemvalue="Application.MaybeCollection" />
-        <item itemvalue="Application.MyPredicateMyTransformerFunc" />
+        <item itemvalue="Application.MapExample" />
+        <item itemvalue="Application.CurriedFunctions" />
+        <item itemvalue="Application.FunctionsBasics" />
+        <item itemvalue="Application.MyFunction1" />
+        <item itemvalue="Application.Exception" />
       </list>
     </recent_temporary>
   </component>
@@ -192,7 +215,6 @@
         <entry key="e7dfc0ca-e2b1-41b6-a3cc-6cc944c9e9f7" value="TOOL_WINDOW" />
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

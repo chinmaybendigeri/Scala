@@ -8,7 +8,10 @@ object CollectionsForLoopsBreaks extends App{
   val listOfChars = List('a','b','c','d')
 
   //usign flatMap and Map methods
-  val combinations = listOfIntegers.flatMap(i => listOfChars.map(c => ""+c+i))
+  val combinations = listOfIntegers.flatMap(
+    i =>
+      listOfChars.map(c => ""+c+i)
+    )
   println(combinations)
   //using for - yield to get the combinations
   val combinationsFor = for {

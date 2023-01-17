@@ -1,5 +1,7 @@
 package part2.OOP
 
+import scala.language.postfixOps
+
 object Notations extends App{
 
   class Person(val name: String, favMovie : String, val age : Int = 0){
