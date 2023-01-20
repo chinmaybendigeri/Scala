@@ -5,25 +5,42 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2fae8b61-b18c-4155-b258-e27bc2fa1ff5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/revision/recursion/Counter.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/revision/recursion/CurriedFunctions.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/revision/recursion/Exception.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/revision/recursion/Inheritance.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/revision/recursion/MapExample.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/revision/recursion/MyFunction1.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/revision/recursion/Recursion.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/ScalaTutorials.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ScalaTutorials.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/revision/OptionsEx.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/part2/OOP/Enums.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/part2/OOP/Enums.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/part2/OOP/Notations.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/part2/OOP/Notations.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/part3/FunctionalProgramming/CollectionsForLoopsBreaks.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/part3/FunctionalProgramming/CollectionsForLoopsBreaks.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/revision/recursion/Counter.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/revision/Counter.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/revision/recursion/CurriedFunctions.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/revision/CurriedFunctions.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/revision/recursion/Exception.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/revision/Exception.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/revision/recursion/Inheritance.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/revision/Inheritance.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/revision/recursion/MapExample.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/revision/MapExample.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/revision/recursion/MyFunction1.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/revision/MyFunction1.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/revision/recursion/Recursion.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/revision/Recursion.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/revision/recursion/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/revision/recursion/Counter$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/revision/recursion/Counter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/revision/recursion/CurriedFunctions$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/revision/recursion/CurriedFunctions$delayedInit$body.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/revision/recursion/CurriedFunctions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/revision/recursion/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/revision/recursion/Exception$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/revision/recursion/Exception$delayedInit$body.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/revision/recursion/Exception.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/revision/recursion/Inheritance$$anon$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/revision/recursion/Inheritance$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/revision/recursion/Inheritance$delayedInit$body.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/revision/recursion/Inheritance.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/revision/recursion/Loyal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/revision/recursion/MapExample$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/revision/recursion/MapExample$delayedInit$body.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/revision/recursion/MapExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/revision/recursion/MyFunction1$$anon$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/revision/recursion/MyFunction1$$anon$2$$anon$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/revision/recursion/MyFunction1$$anon$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/revision/recursion/MyFunction1$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/revision/recursion/MyFunction1$delayedInit$body.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/revision/recursion/MyFunction1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/revision/recursion/Recursion$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/revision/recursion/Recursion$delayedInit$body.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/revision/recursion/Recursion.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,51 +90,25 @@
     <option name="showLibraryContents" value="true" />
     <option name="showVisibilityIcons" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "project.structure.last.edited": "Problems",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "scala_project_settings_configurable.last_selected_tab_index": "0",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.scala.compiler.ScalaCompileServerForm"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Problems&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;scala_project_settings_configurable.last_selected_tab_index&quot;: &quot;0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.scala.compiler.ScalaCompileServerForm&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.MapExample">
+}</component>
+  <component name="RunManager" selected="Application.revision.MapExample">
     <configuration name="CurriedFunctions" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="revision.recursion.CurriedFunctions" />
       <module name="ScalaTutorials" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="revision.recursion.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Exception" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="revision.recursion.Exception" />
-      <module name="ScalaTutorials" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="revision.recursion.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FunctionsBasics" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="part3.FunctionalProgramming.FunctionsBasics" />
-      <module name="ScalaTutorials" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="part3.FunctionalProgramming.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,8 +129,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyFunction1" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="revision.recursion.MyFunction1" />
+    <configuration name="OptionsEx" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="revision.recursion.OptionsEx" />
       <module name="ScalaTutorials" />
       <extension name="coverage">
         <pattern>
@@ -151,13 +142,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PMForValueAndCaseClass" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="part4.PatternMatching.PMForValueAndCaseClass" />
+      <module name="ScalaTutorials" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="part4.PatternMatching.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="revision.MapExample" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="revision.MapExample" />
+      <module name="ScalaTutorials" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="revision.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.revision.MapExample" />
+        <item itemvalue="Application.PMForValueAndCaseClass" />
+        <item itemvalue="Application.OptionsEx" />
         <item itemvalue="Application.MapExample" />
         <item itemvalue="Application.CurriedFunctions" />
-        <item itemvalue="Application.FunctionsBasics" />
-        <item itemvalue="Application.MyFunction1" />
-        <item itemvalue="Application.Exception" />
       </list>
     </recent_temporary>
   </component>
@@ -183,6 +200,11 @@
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
         <entry key="e7dfc0ca-e2b1-41b6-a3cc-6cc944c9e9f7">
           <value>
             <State>
