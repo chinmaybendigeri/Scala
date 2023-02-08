@@ -17,8 +17,8 @@ object PMForValueAndCaseClass extends App {
   val some = x match {
     case 1 => "Lone wolf"
     case 2 => "Beautiful couple"
-    case 3 => "ThreeSome"
-    case _ => "Fuck off!!"   // default in Scala
+    case 3 => "jai he"
+    case _ => ""   // default in Scala
   }
 
   println(x)
